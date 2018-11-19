@@ -1,16 +1,16 @@
 ﻿const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix = "1";
+var prefix = "4";
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
 });
 
 client.on('ready', async() => {
-var server = "509357857666236430"; // ايدي السررفر
-var channel = "509357857666236434";//ايدي الروم
+var server = "513830534670057502"; // ايدي السررفر
+var channel = "513830838996041732";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
+    client.guilds.get(server).channels.get(channel).send('**Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,Sad ,**')
     },305);
 })
 
